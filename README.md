@@ -31,7 +31,6 @@ To run the test class against the authentication endpoint, follow these steps:
 ```
 git clone https://github.com/dsmiles/notification-tests.git
 cd notification-tests
-mvn test
 ```
  
 2. Run Maven test command:
